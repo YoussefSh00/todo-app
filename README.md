@@ -1,16 +1,11 @@
-# todo
+# Todo with SQFlite
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Empty_Screen
+![WhatsApp Image 2024-03-06 at 7 40 15 PM](https://github.com/YoussefSh00/todo-app/assets/151455507/a652e05d-6dd1-41e5-8a1d-75f698e7ee07)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screen_With_Data
+![WhatsApp Image 2024-03-06 at 7 40 16 PM](https://github.com/YoussefSh00/todo-app/assets/151455507/ff75344b-2fb6-4326-9061-cc70e7d4ccc0)
